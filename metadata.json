@@ -1,0 +1,5 @@
+{
+  "name": "Tiệm In Phát Đạt",
+  "description": "Ứng dụng đếm số trang cho file PDF và Microsoft Office (Word, Excel, PowerPoint)",
+  "requestFramePermissions": ["clipboard-read"]
+}
